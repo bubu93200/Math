@@ -1,0 +1,5 @@
+C:/Users/bubu/source/repos/Math/CMakeFiles/ALL_BUILD.dir
+C:/Users/bubu/source/repos/Math/CMakeFiles/ZERO_CHECK.dir
+C:/Users/bubu/source/repos/Math/MathLibrary/CMakeFiles/MathLibrary.dir
+C:/Users/bubu/source/repos/Math/MathLibrary/CMakeFiles/ALL_BUILD.dir
+C:/Users/bubu/source/repos/Math/MainMathLibrary/CMakeFiles/MainMathLibrary.dir
